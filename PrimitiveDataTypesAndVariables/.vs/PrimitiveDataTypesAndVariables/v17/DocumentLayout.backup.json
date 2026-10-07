@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\PrimitiveDataTypesAndVariables\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F53E2648-ABF0-425F-8686-F5DCE6715EE3}|PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables.csproj|c:\\users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\primitivedatatypesandvariables\\primitivedatatypesandvariables\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53E2648-ABF0-425F-8686-F5DCE6715EE3}|PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables.csproj|solutionrelative:primitivedatatypesandvariables\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F53E2648-ABF0-425F-8686-F5DCE6715EE3}|PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables.csproj|c:\\users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\primitivedatatypesandvariables\\primitivedatatypesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F53E2648-ABF0-425F-8686-F5DCE6715EE3}|PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables.csproj|solutionrelative:primitivedatatypesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables\\Player.cs",
+              "RelativeDocumentMoniker": "PrimitiveDataTypesAndVariables\\Player.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables\\Player.cs",
+              "RelativeToolTip": "PrimitiveDataTypesAndVariables\\Player.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:21:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables\\Program.cs",
               "RelativeDocumentMoniker": "PrimitiveDataTypesAndVariables\\Program.cs",
               "ToolTip": "C:\\Users\\ahmad\\source\\repos\\lesson_one\\c_sharp_lesson_one\\PrimitiveDataTypesAndVariables\\PrimitiveDataTypesAndVariables\\Program.cs",
               "RelativeToolTip": "PrimitiveDataTypesAndVariables\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAArwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:21:24.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T12:21:24.378Z"
             }
           ]
         }

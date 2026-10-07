@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimitiveDataTypesAndVariables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ef548da4636dc9977c8c8de2955f7b6b1e0f16")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimitiveDataTypesAndVariables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimitiveDataTypesAndVariables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\net8.0\PrimitiveDataTypesAndVariables.exe
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\net8.0\PrimitiveDataTypesAndVariables.deps.json
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\net8.0\PrimitiveDataTypesAndVariables.runtimeconfig.json
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\net8.0\PrimitiveDataTypesAndVariables.dll
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\net8.0\PrimitiveDataTypesAndVariables.pdb
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.sourcelink.json
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.dll
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\refint\PrimitiveDataTypesAndVariables.dll
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.pdb
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\PrimitiveDataTypesAndVariables.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\lesson_one\c_sharp_lesson_one\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\net8.0\ref\PrimitiveDataTypesAndVariables.dll
